@@ -1,4 +1,4 @@
-file = open('input.txt')
+file = open('day1/input.txt')
 
 rotations = list(file.read().split('\n'))
 rotations.pop()
